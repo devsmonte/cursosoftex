@@ -19,7 +19,7 @@ do {
 
         if(nascimento >= 1922 && nascimento <= 2023){
             let idade = 2023 - nascimento;
-            console.log("Idade que completou com completará: ", idade);
+            console.log(nome, " Idade que completou com completará: ", idade);
             condicao = false;
         }else {
             console.log("Digite uma valor correto!")
