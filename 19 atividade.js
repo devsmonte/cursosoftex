@@ -71,10 +71,4 @@ function exibirLista(){
         console.log(`Elemento: ${element}`);
     });
 }
-/*
-function exibirLista(){
-    lista.forEach((element, index) =>  {
-        console.log(`Valor: ${element} Indice: ${index}`);
-    });
-}
-*/
+
