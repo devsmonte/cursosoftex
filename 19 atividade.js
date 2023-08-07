@@ -1,4 +1,6 @@
 /*
+FIZ UMA SIMULAÇÃO EM CÓDIGO DA ATIVIDADE.
+
 Instruções do projeto
 Considere o array [3, 7, 9, 1, 0].
 
