@@ -1,0 +1,13 @@
+let booll, bigIntt, stringg, symboll
+print()
+
+booll=null, bigIntt=null, stringg=null, symboll=null
+print()
+
+booll=true, bigIntt=10, stringg="Softex Pernambuco", symboll=Symbol
+print()
+
+
+function print(){
+    console.log(`${booll}, ${bigIntt},${stringg},${symboll}`)
+}
