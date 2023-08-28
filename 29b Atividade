@@ -1,0 +1,7 @@
+const entrada = require('prompt-sync')({ sigint: false });
+
+
+let nota1 = parseFloat(entrada("Digite o 1º nota: "));
+let nota2 = parseFloat(entrada("Digite o 2º nota: "));
+
+console.log(`Você precisa tirar no mínimo: ${21 - (nota1 + nota2)}`) 
