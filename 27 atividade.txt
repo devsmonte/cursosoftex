@@ -1,0 +1,2 @@
+As principais vantagens são a quantidade de bibliotecas, frameworks, velocidade de leitura e execução, 
+suportada por quase todos navegadores de mercado, não precisa compilar, código leve e comunidade extensa.
